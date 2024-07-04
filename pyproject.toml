@@ -2,7 +2,7 @@
 name = "ud-public"
 version = "0.1.0"
 description = "These are required python packages for courses."
-authors = ["Carlos A. Sierra <cavirguezs@udistrital.edu.co>"]
+authors = ["Juan Manuel Serrano Rodriguez <jumserranorqudistrital.edu.co>"]
 license = "GNU/GPL 3.0"
 readme = "README.md"
 
