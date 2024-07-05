@@ -2,7 +2,7 @@
 name = "ud-public"
 version = "0.1.0"
 description = "These are required python packages for courses."
-authors = ["Juan Manuel Serrano Rodriguez <jumserranorqudistrital.edu.co>"]
+authors = ["Juan Manuel Serrano Rodriguez <jumserranor@udistrital.edu.co>"]
 license = "GNU/GPL 3.0"
 readme = "README.md"
 
@@ -19,6 +19,7 @@ uvicorn = "^0.29.0"
 xgboost = "^2.0.3"
 scikit-learn = "^1.4.2"
 pydantic = "^2.7.1"
+ipykernel = "^6.29.5"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.1.1"
