@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ud-public"
+name = "data-science"
 version = "0.1.0"
 description = "These are required python packages for courses."
 authors = ["Juan Manuel Serrano Rodriguez <jumserranor@udistrital.edu.co>"]
